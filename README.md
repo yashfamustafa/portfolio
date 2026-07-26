@@ -1,157 +1,203 @@
 # 🌐 Personal Portfolio Website
 
-<div align="center">
+<p align="center">
 
-### A clean and responsive personal portfolio website built using HTML and CSS.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive-Design-success?style=for-the-badge)
+![Flexbox](https://img.shields.io/badge/Flexbox-Layout-blueviolet?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge\&logo=github)
 
-Designed to showcase my skills, projects, education, and passion for software development.
-
-</div>
-
----
-
-## 📖 Overview
-
-This portfolio represents my first step in building a professional online presence as a Software Engineering student. It serves as a central place to introduce myself, highlight my technical skills, present my projects, and provide an easy way for recruiters, collaborators, and fellow developers to connect with me.
-
-The website focuses on simplicity, responsiveness, and clean design while following modern web development practices.
+</p>
 
 ---
 
-## ✨ Features
+# Overview
 
-- Modern and responsive user interface
-- Professional navigation bar
-- Hero section with personal introduction
-- About Me section
-- Technical Skills section
-- Featured Projects section
-- Contact section
-- Social media links
-- Clean and organized layout
+This project is a **responsive personal portfolio website** developed using **HTML5** and **CSS3**. It serves as a professional online presence, showcasing my technical skills, featured projects, education, and contact information in a clean and modern interface.
+
+The portfolio follows responsive web design principles and demonstrates a strong foundation in front-end development through semantic HTML, organised CSS, and a user-friendly layout.
 
 ---
 
-## 🛠 Technologies Used
+# Key Features
 
-- HTML5
-- CSS3
-- Responsive Design
-- Flexbox
-- Google Fonts
+* Responsive design for desktop, tablet, and mobile devices
+* Clean and modern user interface
+* Professional navigation bar
+* Hero section with personal introduction
+* About Me section
+* Technical Skills section
+* Featured Projects showcase
+* Contact section
+* Social media integration
+* Well-structured and maintainable codebase
 
 ---
 
-## 📂 Project Structure
+# Technology Stack
 
-```
+| Category        | Technologies |
+| --------------- | ------------ |
+| Markup          | HTML5        |
+| Styling         | CSS3         |
+| Layout          | Flexbox      |
+| Typography      | Google Fonts |
+| Version Control | Git & GitHub |
+
+---
+
+# Project Structure
+
+```text
 portfolio/
 │
 ├── index.html
 ├── portfolio.css
 ├── profile.jpeg
 ├── about.jpeg
+├── assets/
 └── README.md
 ```
 
 ---
 
-## 🎯 Purpose
+# Design Highlights
 
-The objective of this project is to:
+The portfolio is designed with an emphasis on readability, responsiveness, and simplicity.
 
-- Build a professional online portfolio
-- Practice HTML and CSS fundamentals
-- Improve frontend development skills
-- Showcase personal projects
-- Establish an online developer presence
+Key design considerations include:
+
+* Semantic HTML structure
+* Responsive layouts using Flexbox
+* Consistent colour palette and typography
+* Clear navigation for improved user experience
+* Reusable and organised CSS styling
+* Optimised page layout for different screen sizes
 
 ---
 
-## 🚀 Getting Started
+# Skills Demonstrated
 
-Clone the repository
+This project demonstrates practical knowledge of:
+
+* HTML5
+* CSS3
+* Responsive Web Design
+* Flexbox Layout
+* UI Design Principles
+* Website Structure
+* Cross-device Compatibility
+* Clean Code Practices
+* Version Control with Git
+
+---
+
+# Getting Started
+
+## Clone the Repository
 
 ```bash
 git clone https://github.com/yashfamustafa/portfolio.git
 ```
 
-Open the project folder
+---
+
+## Navigate to the Project
 
 ```bash
 cd portfolio
 ```
 
-Launch the website by opening
+---
 
+## Run the Website
+
+Open the `index.html` file in your preferred web browser.
+
+No additional dependencies or installation steps are required.
+
+---
+
+# Screenshots
+
+> Add screenshots of your portfolio to provide a quick visual overview.
+
+```text
+screenshots/
+    home.png
+    about.png
+    skills.png
+    projects.png
+    contact.png
 ```
-index.html
+
+---
+
+# Future Enhancements
+
+Planned improvements include:
+
+* JavaScript-powered interactions
+* Dark Mode
+* Interactive animations
+* Project filtering
+* Downloadable résumé
+* Contact form with backend integration
+* React.js implementation
+* Performance optimisation
+* Enhanced accessibility
+* Improved UI/UX
+
+---
+
+# Live Demo
+
+Once deployed, the live portfolio can be accessed here:
+
+```text
+https://your-portfolio-link.com
 ```
 
-in your preferred web browser.
+*(Replace with your GitHub Pages, Netlify, or Vercel URL.)*
 
 ---
 
-## 💻 Future Improvements
+# About the Developer
 
-This portfolio will continue to evolve as I learn new technologies.
+**Yashfa Mustafa**
 
-Future updates will include:
-
-- JavaScript animations
-- Dark Mode
-- React.js version
-- Interactive project cards
-- Downloadable Resume
-- Project filtering
-- Contact Form Integration
-- Backend connectivity
-- Improved UI/UX
-- Mobile-first enhancements
+Software Engineering student with an interest in web development, Java applications, databases, and software engineering. I enjoy building practical projects that strengthen my technical skills while exploring modern development practices and continuously improving my problem-solving abilities.
 
 ---
 
-## 👩‍💻 About Me
+# Connect
 
-I am a Software Engineering student passionate about web development, Java programming, databases, and software engineering.
-
-I enjoy building projects that strengthen my programming skills while continuously learning modern technologies and development practices.
-
----
-
-## 📬 Connect With Me
-
-GitHub
+**GitHub**
 
 https://github.com/yashfamustafa
 
-LinkedIn
+**LinkedIn**
 
 https://www.linkedin.com/in/yashfa-mustafa-2963463a3
 
-Email
-yashfamustafa04@gmail.com
+**Email**
+
+[yashfamustafa04@gmail.com](mailto:yashfamustafa04@gmail.com)
 
 ---
 
-## ⭐ Support
+# Contributing
 
-If you found this project useful or interesting, consider giving it a ⭐ on GitHub.
-
-It motivates me to continue learning and building better projects.
+Suggestions and improvements are welcome. Feel free to fork this repository and submit a pull request.
 
 ---
 
-## 📄 License
+# License
 
-This project is open-source and available for educational and personal use.
+This project is available for educational and personal use.
 
 ---
 
-<div align="center">
-
-### Thank you for visiting my portfolio!
-
-**Made with ❤️ by Yashfa Mustafa**
-
-</div>
+⭐ If you found this project useful, consider giving it a star to support my work.
