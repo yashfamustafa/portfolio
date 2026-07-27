@@ -8,7 +8,6 @@
 ![Flexbox](https://img.shields.io/badge/Flexbox-Layout-blueviolet?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge\&logo=github)
-
 </p>
 
 ---
